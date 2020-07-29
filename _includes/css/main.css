@@ -64,9 +64,7 @@ hr {
   border-color: {{ site.colors.black }};
 }
 
-div{
-    display:flex;
-}
+
 .container { word-wrap: break-word; }
 .center { text-align: center; }
 .left, .container .left { text-align: left; }

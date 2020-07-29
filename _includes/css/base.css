@@ -46,7 +46,9 @@
 	table {
 		border-collapse: collapse;
 		border-spacing: 0; }
-
+	div.flex{
+		display: flex;
+	}
 
 /* #Basic Styles
 ================================================== */
@@ -150,7 +152,7 @@
 	  margin-bottom: 20px;
 	  line-height: normal;
 	  padding: 8px 10px;
-	  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+	  font-family: Helvetica,sans-serif; }
 
 	.button:hover,
 	button:hover,
