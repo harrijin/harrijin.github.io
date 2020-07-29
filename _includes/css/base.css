@@ -48,6 +48,9 @@
 		border-spacing: 0; }
 	div.flex{
 		display: flex;
+		align-items: center;
+		width: 100%;
+		justify-content: center;
 	}
 
 /* #Basic Styles
