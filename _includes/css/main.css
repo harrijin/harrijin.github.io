@@ -64,6 +64,9 @@ hr {
   border-color: {{ site.colors.black }};
 }
 
+div{
+    display:flex;
+}
 .container { word-wrap: break-word; }
 .center { text-align: center; }
 .left, .container .left { text-align: left; }
@@ -354,3 +357,4 @@ nav ul li:hover, nav ul li.active {
     column-count:         2;
   }
 }
+
