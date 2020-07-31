@@ -52,6 +52,18 @@
 		width: 100%;
 		justify-content: center;
 	}
+	div.flex div{
+		width:600px;
+	}
+	div.flex h1{
+		text-align:left;
+		margin-bottom:0px;
+	}
+	div.flex p{
+		margin-top: 0px;
+		padding: 0 4%;
+		color: black;
+	}
 
 /* #Basic Styles
 ================================================== */
