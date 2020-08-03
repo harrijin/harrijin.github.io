@@ -143,11 +143,10 @@ nav ul li {
   padding: {{navborder}}px;
   *display:inline;
   zoom:1;
-  line-height:normal;
   letter-spacing:normal;
   text-transform:uppercase;
   min-width:110px;
-  line-height:60px;
+  line-height:35px;
   margin:0;
   height:100%;
 }
@@ -157,17 +156,20 @@ nav ul li a, nav ul li a:visited {
   color:#fff;
   text-decoration:none;
   font-weight:300;
-  opacity:.8;
+/*   opacity:.8; */
   height: 100%;
 }
 
 nav ul li a:hover {
-  opacity:1
+  /*opacity:1*/
+  font-weight: 600;
 }
-nav ul li:hover, nav ul li.active {
+nav ul li.active {
   border-top-width: {{navborder_active}}px;
   padding-top: 0;
+  font-weight: 600;
 }
+
 
 
 /* ----- sections/articles ----- */
