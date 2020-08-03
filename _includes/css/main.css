@@ -112,8 +112,8 @@ hr {
 
 /* ----- top menu ----- */
 
-{% assign navborder = 0 %}
-{% assign navborder_active = 3 %}
+{% assign navborder = 3 %}
+{% assign navborder_active = 6 %}
 
 nav {
   font-size:15px;
@@ -123,9 +123,7 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background:#3DDC84;
-  border-bottom: 3px solid white;
-  border-top: 3px solid white;
+  background: accent;
 }
 
 nav ul {
@@ -141,12 +139,11 @@ nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
   padding: {{navborder}}px;
-  *display:inline;
+  display:inline;
   zoom:1;
   letter-spacing:normal;
-  text-transform:uppercase;
   min-width:110px;
-  line-height:35px;
+  line-height:40px;
   margin:0;
   height:100%;
 }
@@ -155,19 +152,19 @@ nav ul li a, nav ul li a:visited {
   display:block;
   color:#fff;
   text-decoration:none;
-  font-weight:300;
-/*   opacity:.8; */
+  font-weight:600;
+  opacity:.8;
   height: 100%;
 }
 
 nav ul li a:hover {
-  /*opacity:1*/
-  font-weight: 600;
+  opacity:1;
+  color: main;
 }
 nav ul li.active {
   border-top-width: {{navborder_active}}px;
   padding-top: 0;
-  font-weight: 600;
+  color: main;
 }
 
 
