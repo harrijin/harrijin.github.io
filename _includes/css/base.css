@@ -61,6 +61,10 @@
 		font-size: 60px;
 		color: white;
 		background-color: #310057;
+		padding:5px 35px 5px 0;
+		box-shadow: -10px 0px #310057;
+		border-left: 55px solid #310057;
+		width: fit-content;
 	}
 	div.flex p{
 		margin-top: 0px !important;
