@@ -123,7 +123,7 @@ nav {
   z-index:100;
   top:0;
   left:0;
-  background: accent;
+  background: #310057;
 }
 
 nav ul {
@@ -139,7 +139,6 @@ nav ul li {
   display:inline-block;
   border-top:{{navborder}}px solid;
   padding: {{navborder}}px;
-  display:inline;
   zoom:1;
   letter-spacing:normal;
   min-width:110px;
@@ -159,12 +158,12 @@ nav ul li a, nav ul li a:visited {
 
 nav ul li a:hover {
   opacity:1;
-  color: main;
+  color: #3DDC84;
 }
 nav ul li.active {
   border-top-width: {{navborder_active}}px;
   padding-top: 0;
-  color: main;
+  color: #3DDC84;
 }
 
 
