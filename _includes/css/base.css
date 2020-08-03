@@ -59,11 +59,13 @@
 		text-align:left;
 		margin-bottom:0px;
 		font-size: 60px;
+		color: black;
+		background-color: white;
 	}
 	div.flex p{
 		margin-top: 0px !important;
 		padding: 0 4%;
-		color: black;
+		color: white;
 		font-size: 24px !important;
 	}
 
