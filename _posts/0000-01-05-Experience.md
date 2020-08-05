@@ -1,6 +1,6 @@
 ---
 title: "Experience"
-bg: main
+bg: dark
 color: white
 style: center
 ---
