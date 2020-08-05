@@ -1,5 +1,5 @@
 ---
-title: "Work Experience"
+title: "Experience"
 bg: main
 color: white
 style: center
