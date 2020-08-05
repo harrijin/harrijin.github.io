@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Harrison Jin's website"
+title:       "Harrison Jin"
 keywords:    "Harrison, Jin"
 description: "A website to learn about Harrison"
 source_link: "https://github.com/t413/SinglePaged"
@@ -27,13 +27,10 @@ google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable
 colors:
   main:      '#3DDC84'
   accent:    '#310057'
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
+  dark:      '#222222'
+  black:     '#000000'
+  white:     '#FFFFFF'
+
 
 kramdown:
   auto_ids:  false
