@@ -1,7 +1,7 @@
 ---
 title: "Education"
-bg: accent
-color: dark
+bg: dark
+color: white
 style: center
 ---
 
