@@ -5,6 +5,6 @@ color: white
 style: center
 ---
 
-# Education
+## Education
 
 This section is under construction!
