@@ -5,6 +5,6 @@ color: white
 style: center
 ---
 
-## Work Experience
+# Work Experience
 
 This section is under construction!
