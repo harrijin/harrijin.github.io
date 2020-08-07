@@ -1,6 +1,6 @@
 ---
 title: "Interests"
-bg: main
+bg: dark
 color: white
 style: center
 ---
