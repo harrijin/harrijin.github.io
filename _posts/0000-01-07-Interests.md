@@ -5,6 +5,6 @@ color: white
 style: center
 ---
 
-## My Interests
+# My Interests
 
 This section is under construction!
