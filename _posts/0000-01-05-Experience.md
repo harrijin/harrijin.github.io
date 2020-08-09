@@ -3,6 +3,7 @@ title: "Experience"
 bg: dark
 color: white
 style: center
+fa-icon: briefcase
 ---
 
 # Work Experience
